@@ -2,7 +2,7 @@
   <div class="brief">
     <div class="avatar">
       <!-- contenteditable = "true" 让这个标签可以被编辑-->
-      <EditImage :src="require('@/assets/logo_name.png')" width="212" height="212" :isCircle="true" class="img"/>
+<!--      <EditImage :src="require('@/assets/logo_name.png')" width="212" height="212" :isCircle="true" class="img"/>-->
       <div class="name" contenteditable="false">胡明轩</div>
       <div class="job" contenteditable="false">求职意向:java开发</div>
       <div class="location">
